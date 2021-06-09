@@ -18,6 +18,10 @@ Please remember:
 ## Documentation
 - The official docs https://developer.shopware.com/docs/
 
+## Training resources
+- Video on Demand trainings https://www.shopware.com/en/academy/online-trainings/
+- Youtube Shopware Knowledge Channel https://www.youtube.com/channel/UC-xCvUIPOXx6o4ZydnwIsng
+
 ## Dev environments
 - Dockware https://dockware.io/
 - Warden https://docs.warden.dev/environments/shopware.html
