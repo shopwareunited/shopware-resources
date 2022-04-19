@@ -29,6 +29,7 @@ Please remember:
 ## Blogs
 - Shyim https://shyim.me/blog/
 - Peter Jaap Blaakmeer https://www.p16r.nl
+- Shopware Tricks https://shopwaretricks.com
 
 ## Twitter Follow Lists
 - English Shopware Community by @sandermangel https://twitter.com/i/lists/1238492219490869249
